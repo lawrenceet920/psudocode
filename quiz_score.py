@@ -12,4 +12,5 @@ score3 = float(input('Please enter the Third quiz score:    '))
 average_score = (score1 + score2 + score3) / 3
 
 # Output
+print(f'{score1}, {score2}, {score3}.')
 print (f'(Hello {fname} Your average score is {average_score}')
